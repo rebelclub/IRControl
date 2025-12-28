@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="IRControl is ready"
+        android:textSize="22sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:text="Base project successfully created"
+        android:layout_marginTop="8dp"/>
+</LinearLayout>
