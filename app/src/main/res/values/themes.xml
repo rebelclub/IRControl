@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.IRControl" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Custom colors keyin qo‘shiladi -->
+    </style>
+</resources>
